@@ -17,7 +17,7 @@ We're trying to use the best tools and practices in order to produce a quality e
 | Recommended IDE | [Eclipse](https://www.eclipse.org) |
 | Issues | [![GitHub issues](https://img.shields.io/github/issues/jce-il/project-template.svg?style=flat)](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/issues) |
 | Project Management Board| [here](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/projects) |
-| Contributors | [![GitHub contributors](https://img.shields.io/github/contributors/jce-il/project-template.svg)](https://github.com/ZeinaAbuSwai/Salametcom/graphs/contributors)|
+| Contributors | [![GitHub contributors](https://img.shields.io/github/contributors/jce-il/project-template.svg)](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/graphs/contributors)|
 
 ## Disclaimer
 This project is developed as part of the graduation requirements for a B.Sc degree at the software engineering department - [Azrieli College of Engineering](http://www.jce.ac.il/), Jerusalem, Israel.
