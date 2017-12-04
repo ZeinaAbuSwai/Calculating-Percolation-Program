@@ -5,7 +5,7 @@
 This repository is for a B.Sc degree's graduation project done by software engineering students in the Azrieli College of Engineering (JCE). 
 In which a java program that calculates percolation throughout an electrical grid will be developed for the college physics department.
 
-[visit our wiki](https://github.com/ZeinaAbuSwai/Salametcom/wiki)
+[visit our wiki](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/wiki)
 
 
 ## Tools & Practices
