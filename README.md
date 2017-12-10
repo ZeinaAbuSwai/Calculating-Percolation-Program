@@ -15,7 +15,7 @@ We're trying to use the best tools and practices in order to produce a quality e
 |---|---|
 | Version Control System| git & github |
 | Recommended IDE | [Eclipse](https://www.eclipse.org) |
-| Issues | [![GitHub issues](https://img.shields.io/github/issues/jce-il/project-template.svg?style=flat)](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/issues) |
+| Issues | [![GitHub issues](https://img.shields.io/github/issues/ZeinaAbuSwai/project-template.svg?style=flat)](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/issues) |
 | Project Management Board| [here](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/projects) |
 | Contributors | [![GitHub contributors](https://img.shields.io/github/contributors/jce-il/project-template.svg)](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/graphs/contributors)|
 | Our Project Calendar | [Calendar](https://calendar.google.com/calendar/embed?src=ofbe3kdsde039ra5vqdq53tm9s%40group.calendar.google.com&ctz=Asia%2FJerusalem)|
