@@ -18,7 +18,7 @@ We're trying to use the best tools and practices in order to produce a quality e
 | Issues | [here](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/issues) |
 | Project Management Board| [here](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/projects) |
 | Contributors | [here](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/graphs/contributors)|
-| Our Project Calendar | [here](https://calendar.google.com/calendar/embed?src=ofbe3kdsde039ra5vqdq53tm9s%40group.calendar.google.com&ctz=Asia%2FJerusalem)|
+| Project Calendar | [here](https://calendar.google.com/calendar/embed?src=ofbe3kdsde039ra5vqdq53tm9s%40group.calendar.google.com&ctz=Asia%2FJerusalem)|
 
 ## Disclaimer
 This project is developed as part of the graduation requirements for a B.Sc degree at the software engineering department - [Azrieli College of Engineering](http://www.jce.ac.il/), Jerusalem, Israel.
