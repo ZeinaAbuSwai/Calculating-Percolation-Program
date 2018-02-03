@@ -1,0 +1,32 @@
+{ }
+{ s a }
+{ s b }
+{ s a s b }
+{ a b }
+{ s a a b }
+{ s b a b }
+{ s a s b a b }
+{ a t }
+{ s a a t }
+{ s b a t }
+{ s a s b a t }
+{ a b a t }
+{ s a a b a t }
+{ s b a b a t }
+{ s a s b a b a t }
+{ b t }
+{ s a b t }
+{ s b b t }
+{ s a s b b t }
+{ a b b t }
+{ s a a b b t }
+{ s b a b b t }
+{ s a s b a b b t }
+{ a t b t }
+{ s a a t b t }
+{ s b a t b t }
+{ s a s b a t b t }
+{ a b a t b t }
+{ s a a b a t b t }
+{ s b a b a t b t }
+{ s a s b a b a t b t }
