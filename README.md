@@ -35,10 +35,10 @@ This project is developed as part of the graduation requirements for a B.Sc degr
 
 ### Iteration Pages
 - [Iteration 0 - ZFR](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/wiki/Iteration-0---ZFR)
-- [Iteration 1 - 2x2 grid](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/wiki/Iteration-1)
-- [Iteration 2 - 3x3 grid](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/wiki/Iteration-2)
-- [Iteration 3 - 4x4 grid](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/wiki/Iteration-3)
-- [Iteration 4 - GUI](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/wiki/Iteration-4)
+- [Iteration 1 - 2x2 grid](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/wiki/Iteration-1---2x2-grid)
+- [Iteration 2 - 3x3 grid](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/wiki/Iteration-2---3x3-grid)
+- [Iteration 3 - 4x4 grid](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/wiki/Iteration-3---4x4-grid)
+- [Iteration 4 - GUI](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/wiki/Iteration-4---GUI)
 
 
 
