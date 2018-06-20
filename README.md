@@ -31,7 +31,7 @@ This project is developed as part of the graduation requirements for a B.Sc degr
 ### Project Documents
 - [Project Inception](../../wiki/Project-Inception)
 - [Software Requirements Specification](../../wiki/srs)
-- [Software Design Specification](../../wiki/sds)
+
 
 ### Iteration Pages
 - [Iteration 0 - ZFR](https://github.com/ZeinaAbuSwai/Calculating-Percolation-Program/wiki/Iteration-0---ZFR)
