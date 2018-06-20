@@ -1,2 +1,0 @@
-a b c with Probabilty is : 9.0% 
-a c with Probabilty is : 6.0% 

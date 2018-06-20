@@ -1,8 +1,0 @@
-{ }
-{ s a }
-{ a b }
-{ s a a b }
-{ b q }
-{ s a b q }
-{ a b b q }
-{ s a a b b q }
